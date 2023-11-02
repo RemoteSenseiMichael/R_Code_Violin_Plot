@@ -1,4 +1,4 @@
-# R Code: Violiin Plot
+# R Code: Violin Plot
 
 This code, writtin in the R programming language, is for creating a violin plot from samples of remote sensing variables. The plot is created using the ggplot2 library in R. Similar to a boxplot, but with the addition of a rotated kernel density plot on both sides, a violin plot is a statistical graphic for comparing distributions.
 
